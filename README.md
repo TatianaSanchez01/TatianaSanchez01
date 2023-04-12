@@ -1,4 +1,5 @@
 <div align="left">
+  <img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif" align="right" border-radius="50px" height="70">
   <h1>Tatiana Sanchez</h1>
   <img src="https://readme-typing-svg.herokuapp.com?size=14&color=fff&lines=Good+design+adds+value+faster+than+it+adds+cost.%7C">
 </div>
@@ -11,9 +12,8 @@
 🌱 I’m currently learning about **software quality, Springboot, React**
 
 
-📫 How to reach me
+📫 How to reach me **tatiana.sanchez.sanin@gmail.com**
 
-[![Gmail](https://img.shields.io/badge/Gmail-pink?style=for-the-badge&logo=gmail&logoColor=black)](**tatiana.sanchez.sanin@gmail.com**)
 [![Linkedin: Tatiana Sánchez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tatiana-sanchez-sanin/)
 
 
@@ -59,7 +59,6 @@ const tatiana = {
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo DB"  alt="Mongo DB" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
      </div>
