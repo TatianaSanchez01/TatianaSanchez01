@@ -1,14 +1,18 @@
-- 👋 Hi, I’m Tatiana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+###👋 Hi, I’m Tatiana
+
 
 [![Gmail](https://img.shields.io/badge/Gmail-pink?style=for-the-badge&logo=gmail&logoColor=black)]()
 [![Linkedin: Tatiana Sánchez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tatiana-sanchez-sanin/)
 
 ### 👾 Summary
 
+- 👋 Hi, I’m Tatiana
+- 👀 I’m interested in Web Development, Software Development, 
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me
+
+### <img src="https://media.giphy.com/media/JoaeMGYYkHpC/giphy.gif" width="50"> A little more about me...  
 
 ---
 
@@ -30,10 +34,10 @@ const tatiana = {
         databases: ["MySQL", "Oracle", "MongoDB"],
         tools: ["VsCode", "Intellij", "Postman", "Git"]
     },
-    funFact: ,
+    funFact:  ,
     challenge: 
 };
-
+```
 ---
 
 ### 📊 My Stats :
