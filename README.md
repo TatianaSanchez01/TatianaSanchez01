@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 ### 📊 My Stats :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianaSanchez01s&show_icons=true&theme=radical) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianaSanchez01&show_icons=true&theme=radical) 
