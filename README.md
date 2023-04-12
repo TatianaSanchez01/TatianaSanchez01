@@ -1,8 +1,9 @@
-###👋 Hi, I’m Tatiana
+<div align="left">
+  <h1>Tatiana Sanchez</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?size=14&color=fff&lines=Good+design+adds+value+faster+than+it+adds+cost.%7C">
+</div>
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-pink?style=for-the-badge&logo=gmail&logoColor=black)]()
-[![Linkedin: Tatiana Sánchez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tatiana-sanchez-sanin/)
 
 ### 👾 Summary
 
@@ -10,7 +11,12 @@
 - 👀 I’m interested in Web Development, Software Development, 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 
+<h4>📫 How to reach me</h4>
+<div align="center">
+[![Gmail](https://img.shields.io/badge/Gmail-pink?style=for-the-badge&logo=gmail&logoColor=black)]()
+[![Linkedin: Tatiana Sánchez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tatiana-sanchez-sanin/)
+</div>
 
 ### <img src="https://media.giphy.com/media/JoaeMGYYkHpC/giphy.gif" width="50"> A little more about me...  
 
