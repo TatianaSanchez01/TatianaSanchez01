@@ -13,10 +13,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 
 <h4>📫 How to reach me</h4>
-<div align="center">
 [![Gmail](https://img.shields.io/badge/Gmail-pink?style=for-the-badge&logo=gmail&logoColor=black)]()
 [![Linkedin: Tatiana Sánchez](https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tatiana-sanchez-sanin/)
-</div>
 
 ### <img src="https://media.giphy.com/media/JoaeMGYYkHpC/giphy.gif" width="50"> A little more about me...  
 
