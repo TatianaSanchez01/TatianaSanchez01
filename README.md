@@ -1,6 +1,6 @@
 <div align="left">
   <img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif" align="right" border-radius="50px" height="70">
-  <h1>Tatiana Sanchez</h1>
+  <h1>Tatiana Sanchez Sanin</h1>
   <img src="https://readme-typing-svg.herokuapp.com?size=14&color=fff&lines=Good+design+adds+value+faster+than+it+adds+cost.%7C">
 </div>
 
@@ -45,6 +45,7 @@ const tatiana = {
 };
 ```
 ---
+
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -63,6 +64,7 @@ const tatiana = {
       <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
      </div>
 </div>
+
 ---
 
 ### 📊 My Stats :
