@@ -7,10 +7,15 @@
 
 ### 👾 Summary
 
-👋 Hi, I’m Tatiana, I'm a systems engineer in **Universidad de Antioquia**. I'm passionate about technology and being up to date with new knowledge. I've been studying for 4 years now and have worked with technologies such as JavaScript, PHP, Python, HTML, CSS, Boostrap, Java, Nodejs, MySQL, OracleDB, MongoDB, Git and Github, and learning about good practices on software arquitecture and agile methodologies 👀.
+👋 Hi, I’m Tatiana, I'm a systems engineer in **Universidad de Antioquia**. I have a passion for coding and enjoy exploring various programming languages and technologies. While I wouldn't consider myself an expert in any particular language, I have experience working with a diverse set of tools, frameworks, and databases, including: JavaScript, PHP, Python, HTML, CSS, Boostrap, Java, Nodejs, MySQL, OracleDB, MongoDB, Git and Github, and learning about good practices on software arquitecture and agile methodologies 👀.
 
 🌱 I’m currently learning about **software quality, Springboot, React**
 
+I'm constantly learning and expanding my skills in the field of software development. I'm particularly interested in web development and enjoy creating dynamic and interactive user experiences.
+
+This GitHub profile serves as a platform for me to showcase my projects and share my coding journey. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or if you'd like to collaborate on an exciting project.
+
+Happy coding! 😊🚀
 
 📫 How to reach me **tatiana.sanchez.sanin@gmail.com**
 
